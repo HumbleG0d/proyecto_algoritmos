@@ -25,8 +25,8 @@ public class PintanrDibujos {
         ((Graphics2D) g).setColor(Color.BLACK);
         ((Graphics2D) g).drawOval(x, y, 15, 15);
 
-        ((Graphics2D) g).setColor(Color.BLUE);
-        Font fuente = new Font("Monospaced", Font.BOLD, 16);
+        ((Graphics2D) g).setColor(Color.GREEN);
+        Font fuente = new Font("Monospaced", Font.BOLD, 20);
         g.setFont(fuente);
         ((Graphics2D) g).drawString(n, x, y);
 
@@ -51,8 +51,8 @@ public class PintanrDibujos {
         if (y1 >= y2) {
             yAux = ((y1 - y2) / 2) + y2;
         }
-        ((Graphics2D)g).setColor(Color.BLUE);//PINTANDO TEXTO DE VERTICES(TAMANIO)
-        Font fuente = new Font("Monospaced", Font.PLAIN, 12);
+        ((Graphics2D)g).setColor(Color.BLACK);//PINTANDO TEXTO DE VERTICES(TAMANIO)
+        Font fuente = new Font("Monospaced", Font.PLAIN, 18);
         g.setFont(fuente);
         ((Graphics2D) g).drawString(String.valueOf(tam), xAux, yAux);
     }
