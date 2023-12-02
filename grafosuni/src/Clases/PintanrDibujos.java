@@ -7,10 +7,7 @@ import java.awt.Graphics;
 import java.awt.Graphics2D;
 import java.awt.RenderingHints;
 
-/**
- *
- * @author Jose H Elel
- */
+
 public class PintanrDibujos {
 
     public PintanrDibujos() {

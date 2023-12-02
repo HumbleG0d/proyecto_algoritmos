@@ -4,11 +4,8 @@ import static Ventanas.Inicio.PintarFiguras;
 import static Ventanas.Inicio.jPanel1;
 import java.awt.Color;
 
-/**
- *
- * @author Jose H Elel
- */
-public class AlgoritmoDijkstra {//aflkaflaj
+
+public class AlgoritmoDijkstra {
 
     private final DatosGraficos arboles;
     private int subTope;

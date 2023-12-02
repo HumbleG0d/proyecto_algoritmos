@@ -1,9 +1,6 @@
 package Clases;
 
-/**
- *
- * @author Jose H Elel
- */
+
 public class Nodo {    
    private  int nombre ;
    private boolean visitado ;

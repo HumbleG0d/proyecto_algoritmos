@@ -7,10 +7,7 @@ import java.awt.Color;
 import java.awt.Font;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Jose H Elel
- */
+
 public class Inicio extends javax.swing.JFrame {
 
   private int Numerotope = 0;//Numero de nodos 

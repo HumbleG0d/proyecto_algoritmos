@@ -9,10 +9,7 @@ public class DatosGraficos {
     private final String nombre[] = new String[51];
     private int enArbol[];
 
-    /**
-     *
-     * @author Jose H Elel
-     */
+    
     public DatosGraficos() {
 
     }
