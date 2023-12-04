@@ -217,29 +217,10 @@
           <Color blue="99" green="0" red="0" type="rgb"/>
         </Property>
         <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
-          <StringArray count="22">
+          <StringArray count="3">
             <StringItem index="0" value="Puerta 6"/>
-            <StringItem index="1" value="CiberSecUNI"/>
-            <StringItem index="2" value="Sistemas UNI"/>
-            <StringItem index="3" value="FIIS"/>
-            <StringItem index="4" value="CTIC"/>
-            <StringItem index="5" value="FIEE"/>
-            <StringItem index="6" value="FC"/>
-            <StringItem index="7" value="Puerta 5"/>
-            <StringItem index="8" value="Estadio UNI"/>
-            <StringItem index="9" value="Centro Medico"/>
-            <StringItem index="10" value="FIEECS"/>
-            <StringItem index="11" value="FIGMM"/>
-            <StringItem index="12" value="CFT"/>
-            <StringItem index="13" value="FIC"/>
-            <StringItem index="14" value="FAUA"/>
-            <StringItem index="15" value="INFAUA"/>
-            <StringItem index="16" value="CEPS"/>
-            <StringItem index="17" value="Teatro UNI"/>
-            <StringItem index="18" value="FIA"/>
-            <StringItem index="19" value="Puerta 3"/>
-            <StringItem index="20" value="Lab FIM"/>
-            <StringItem index="21" value="FIM"/>
+            <StringItem index="1" value="Puerta 5"/>
+            <StringItem index="2" value="Puerta 3"/>
           </StringArray>
         </Property>
       </Properties>
@@ -289,29 +270,26 @@
           <Color blue="99" green="0" red="0" type="rgb"/>
         </Property>
         <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
-          <StringArray count="22">
-            <StringItem index="0" value="Puerta 6"/>
-            <StringItem index="1" value="CiberSecUNI"/>
+          <StringArray count="19">
+            <StringItem index="0" value="CiberSecUNI"/>
+            <StringItem index="1" value="FIIS"/>
             <StringItem index="2" value="Sistemas UNI"/>
-            <StringItem index="3" value="FIIS"/>
-            <StringItem index="4" value="CTIC"/>
-            <StringItem index="5" value="FIEE"/>
-            <StringItem index="6" value="FC"/>
-            <StringItem index="7" value="Puerta 5"/>
-            <StringItem index="8" value="Estadio UNI"/>
-            <StringItem index="9" value="Centro Medico"/>
-            <StringItem index="10" value="FIEECS"/>
-            <StringItem index="11" value="FIGMM"/>
-            <StringItem index="12" value="CFT"/>
-            <StringItem index="13" value="FIC"/>
-            <StringItem index="14" value="FAUA"/>
-            <StringItem index="15" value="INFAUA"/>
-            <StringItem index="16" value="CEPS"/>
-            <StringItem index="17" value="Teatro UNI"/>
-            <StringItem index="18" value="FIA"/>
-            <StringItem index="19" value="Puerta 3"/>
-            <StringItem index="20" value="Lab FIM"/>
-            <StringItem index="21" value="FIM"/>
+            <StringItem index="3" value="CTIC"/>
+            <StringItem index="4" value="FIEE"/>
+            <StringItem index="5" value="FC"/>
+            <StringItem index="6" value="Estadio UNI"/>
+            <StringItem index="7" value="Centro Medico"/>
+            <StringItem index="8" value="FIEECS"/>
+            <StringItem index="9" value="FIGMM"/>
+            <StringItem index="10" value="CFT"/>
+            <StringItem index="11" value="FIC"/>
+            <StringItem index="12" value="FAUA"/>
+            <StringItem index="13" value="INFAUA"/>
+            <StringItem index="14" value="CEPS"/>
+            <StringItem index="15" value="Teatro UNI"/>
+            <StringItem index="16" value="FIA"/>
+            <StringItem index="17" value="Lab FIM"/>
+            <StringItem index="18" value="FIM"/>
           </StringArray>
         </Property>
       </Properties>

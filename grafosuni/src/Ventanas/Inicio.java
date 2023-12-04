@@ -135,7 +135,7 @@ public class Inicio extends javax.swing.JFrame {
     EleccionDestino.setBackground(new java.awt.Color(0, 153, 51));
     EleccionDestino.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
     EleccionDestino.setForeground(new java.awt.Color(0, 0, 153));
-    EleccionDestino.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Puerta 6", "CiberSecUNI", "Sistemas UNI", "FIIS", "CTIC", "FIEE", "FC", "Puerta 5", "Estadio UNI", "Centro Medico", "FIEECS", "FIGMM", "CFT", "FIC", "FAUA", "INFAUA", "CEPS", "Teatro UNI", "FIA", "Puerta 3", "Lab FIM", "FIM" }));
+    EleccionDestino.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Puerta 6", "Puerta 5", "Puerta 3" }));
     EleccionDestino.addActionListener(new java.awt.event.ActionListener() {
       public void actionPerformed(java.awt.event.ActionEvent evt) {
         EleccionDestinoActionPerformed(evt);
@@ -157,7 +157,7 @@ public class Inicio extends javax.swing.JFrame {
     EleccionOrigen.setBackground(new java.awt.Color(0, 153, 51));
     EleccionOrigen.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
     EleccionOrigen.setForeground(new java.awt.Color(0, 0, 153));
-    EleccionOrigen.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Puerta 6", "CiberSecUNI", "Sistemas UNI", "FIIS", "CTIC", "FIEE", "FC", "Puerta 5", "Estadio UNI", "Centro Medico", "FIEECS", "FIGMM", "CFT", "FIC", "FAUA", "INFAUA", "CEPS", "Teatro UNI", "FIA", "Puerta 3", "Lab FIM", "FIM" }));
+    EleccionOrigen.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "CiberSecUNI", "FIIS", "Sistemas UNI", "CTIC", "FIEE", "FC", "Estadio UNI", "Centro Medico", "FIEECS", "FIGMM", "CFT", "FIC", "FAUA", "INFAUA", "CEPS", "Teatro UNI", "FIA", "Lab FIM", "FIM" }));
     EleccionOrigen.addActionListener(new java.awt.event.ActionListener() {
       public void actionPerformed(java.awt.event.ActionEvent evt) {
         EleccionOrigenActionPerformed(evt);
